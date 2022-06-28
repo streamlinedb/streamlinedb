@@ -1,4 +1,18 @@
-### Hi there 👋
+### STREAMLINEDB 👋
+Mission Possible
+- Realiable
+- Fast concurrent reads with small memory overhead
+- Cloud friendly
+- Portable
+- Fast filtering
+- Near cache
+- Change log
+
+Architecture
+- GraalVM / C / Java 
+- Streamlined reads from network, disk and memory.
+- Streamlined performance tunning
+
 
 <!--
 **streamlinedb/streamlinedb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
