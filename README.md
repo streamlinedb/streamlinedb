@@ -6,31 +6,31 @@ Target
 
 Mission Possible
 
-- Realiable
-hot backups
-replication
-proxy round robin
-monitoring
+- Realiable: 
+hot backups,
+replication,
+proxy round robin,
+monitoring,
 restore to time point
 
-- Perfomance
-fast concurrent reads with small memory overhead
-multilevel cache
-fast filtering
+- Perfomance: 
+fast concurrent reads with small memory overhead,
+multilevel cache,
+fast filtering,
 best compression
 
-- Security
-OAuth 2
-role based access to objects subsets (Xpath)
+- Security:
+OAuth 2,
+role based access to objects subsets (Xpath),
 encryption
 
-- Streamlined
-size
-speeed
+- Streamlined:
+size,
+speeed,
 io
 
-- API
-rest query language
+- API:
+rest query language,
 return JSON/XML/CSV/Excel
 
 - UI
