@@ -1,18 +1,57 @@
 ### STREAMLINEDB 👋
+Target
+
+- Microservice data backend
+- Web Browsers data backend
+
 Mission Possible
+
 - Realiable
-- Fast concurrent reads with small memory overhead
-- Cloud friendly
-- Portable
-- Fast filtering
-- Near cache
-- Change log
+hot backups
+replication
+proxy round robin
+monitoring
+restore to time point
+
+- Perfomance
+fast concurrent reads with small memory overhead
+multilevel cache
+fast filtering
+best compression
+
+- Security
+OAuth 2
+role based access to objects subsets (Xpath)
+encryption
+
+- Streamlined
+size
+speeed
+io
+
+- API
+rest query language
+return JSON/XML/CSV/Excel
+
+- UI
+management console
+statistics
+data manipulation
+import/export
 
 Architecture
-- GraalVM / C / Java 
+- GraalVM / C / Java / JS 
 - Streamlined reads from network, disk and memory.
 - Streamlined performance tunning
+- XML documents with XSD validations
+  Structure can be altered, but not afect past time.
 
+Use cases
+- Documents store
+- Master data
+- Reports
+- IOTs
+- Logs
 
 <!--
 **streamlinedb/streamlinedb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
