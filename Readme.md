@@ -1,7 +1,9 @@
 # ⚡ StreamLineDB ⚡
-<center>
-### Simplify your data layer for client, server, and mobile applications.
-</center>
+
+<p align="center">
+<em>Simplify your data layer for client, server, and mobile applications.</em>
+</p>
+
 <p align="center">
 <img alt="Status" src="https://img.shields.io/badge/status-under%20development-yellow?style=for-the-badge">
 <img alt="License" src="https://img.shields.io/badge/license-AGPLv3-blue?style=for-the-badge">
