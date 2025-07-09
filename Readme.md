@@ -1,7 +1,7 @@
 # ⚡ StreamLineDB ⚡
 
 <p align="center">
-<em>Simplify your data layer for web and mobile applications.</em>
+<em>Blazing Speed⚡. Radical Simplicity⚡.</em>
 </p>
 
 <p align="center">
