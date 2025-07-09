@@ -1,9 +1,6 @@
 # ⚡ StreamLineDB ⚡
 
-
-<p align="center">
-<em>Simplify your data layer for client, server and mobile applications.</em>
-</p>
+### Simplify your data layer for client, server, and mobile applications.
 
 <p align="center">
 <img alt="Status" src="https://img.shields.io/badge/status-under%20development-yellow?style=for-the-badge">
@@ -37,20 +34,21 @@ In a world of complex database systems, StreamLineDB offers a refreshing approac
 
 StreamLineDB is currently in **active development**. The core concepts are being implemented, and the API is taking shape. Our current focus is on:
 
-* **[✅] Core Engine:** A stable, high-performance, read-only bit-packed columnar store.
-* **[✅] Single File Storage:** Perfecting the `.sldb` format for one file per data stream.
-* **[⏳] In-Memory Caching:** Designing the engine to be efficiently cached in application memory.
-* **[⏳] Native Interfaces:**
-    * Java library (for Android and backend systems)
-    * Native PHP extension (for high-performance web backends)
-    * React Native library (for cross-platform mobile apps)
-* **[ ] Advanced Query Features:** Implementing fast filtering and aggregation functions.
+- [x] **Core Engine:** A stable, high-performance, read-only bit-packed columnar store.
+- [x] **Single File Storage:** Perfecting the `.sldb` format for one file per data stream.
+- [ ] **In-Memory Caching:** Designing the engine to be efficiently cached in application memory.
+- [ ] **Native Interfaces:**
+    - Java library (for Android and backend systems)
+    - Native PHP extension (for high-performance web backends)
+    - React Native library (for cross-platform mobile apps)
+- [ ] **Advanced Query Features:** Implementing fast filtering and aggregation functions.
 
 ---
 
 ### 🤝 How to Contribute
 
 Interested in the future of high-performance, simplified data access? We'd love to have you on board! Feel free to:
+
 * Open an **issue** to discuss ideas, ask questions, or report bugs.
 * Submit a **pull request** with your improvements.
 
