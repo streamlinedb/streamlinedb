@@ -1,7 +1,7 @@
-⚡ StrimLineDB ⚡
+⚡ StreamLineDB ⚡
 <p align="center">
 <strong>A blazing-fast, read-only database engine designed to simplify data storage for modern applications.
-StrimLineDB is built on a simple premise: accessing data should be effortless and incredibly fast. It's a file-based, read-only engine perfect for powering web apps, e-commerce stores, and mobile applications where high performance and simplicity are critical. Forget complex database setups; with StrimLineDB, your data lives in a single, highly optimized file.</strong>
+StreamLineDB is built on a simple premise: accessing data should be effortless and incredibly fast. It's a file-based, read-only engine perfect for powering web apps, e-commerce stores, and mobile applications where high performance and simplicity are critical. Forget complex database setups; with StreamLineDB, your data lives in a single, highly optimized file.</strong>
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ The core goal is to create a zero-configuration data store that's both portable 
 
 💻 **In-Memory Performance:** The compact file format is designed to be loaded directly into application memory, enabling near-instantaneous access for a smooth and responsive user experience.
 
-💡 **Why StrimLineDB?**
-In a world of complex database systems, StrimLineDB offers a refreshing approach for read-heavy workloads. Inspired by leaders like ClickHouse, our columnar store uses aggressive bit-packing and specialized indexes. This means extremely fast data scans and filtering.
+💡 **Why StreamLineDB?**
+In a world of complex database systems, StreamLineDB offers a refreshing approach for read-heavy workloads. Inspired by leaders like ClickHouse, our columnar store uses aggressive bit-packing and specialized indexes. This means extremely fast data scans and filtering.
 
 🗺️**Ultimate Portability**
 Move your application between development, staging, and production with a simple file copy. Perfect for serverless environments, mobile apps, and edge computing.
@@ -61,10 +61,10 @@ React Native library (for cross-platform mobile apps)
 Interested in the future of high-performance, simplified data access? We'd love to have you on board! Feel free to open an issue to discuss ideas or submit a pull request.
 
 🚧 **Current Status: Under Development** 🚧
-StrimLineDB is currently in the active development phase. The core concepts are being implemented, and the API is taking shape. 
+StreamLineDB is currently in the active development phase. The core concepts are being implemented, and the API is taking shape. 
 
 🚀 **Core Philosophy**
-StrimLineDB is built on a few simple but powerful ideas to solve a specific problem: providing the fastest possible read access to static or semi-static data.
+StreamLineDB is built on a few simple but powerful ideas to solve a specific problem: providing the fastest possible read access to static or semi-static data.
 
 Envisioned to be the perfect data solution for:
 Mobile Apps needing powerful offline-first capabilities.
