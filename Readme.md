@@ -31,11 +31,10 @@ The core goal is to create a zero-configuration data store that's both portable 
 💡 **Why StreamLineDB?**
 In a world of complex database systems, StreamLineDB offers a refreshing approach for read-heavy workloads. Inspired by leaders like ClickHouse, our columnar store uses aggressive bit-packing and specialized indexes. This means extremely fast data scans and filtering.
 
-🗺️**Ultimate Portability**
+♕ **Ultimate Portability**
 Move your application between development, staging, and production with a simple file copy. Perfect for serverless environments, mobile apps, and edge computing.
 
-Predictable Speed
-
+☝ **Predictable Speed**
 By optimizing for specific hardware and a read-only workload, we deliver consistent, lightning-fast performance that you can rely on.
 
 🗺️ Roadmap & Main Ideas
