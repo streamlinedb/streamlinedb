@@ -1,7 +1,7 @@
 # ⚡ StreamLineDB ⚡
 
 <p align="center">
-<em>Blazing Speed⚡. Radical Simplicity⚡.</em>
+<em>Blazing Speed ⚡. Radical Simplicity.</em>
 </p>
 
 <p align="center">
