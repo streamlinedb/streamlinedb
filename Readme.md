@@ -1,5 +1,9 @@
 # ⚡ StreamLineDB ⚡
-
+<p align="center">
+  <a href="https://www.streamlinedb.org" target="_blank">
+    <img alt="Project Homepage" src="https://img.shields.io/badge/Project%20Homepage-Live%20Demo-58A6FF?style=for-the-badge">
+  </a>
+</p>
 <p align="center">
 <em>Blazing Speed ⚡. Radical Simplicity.</em>
 </p>
