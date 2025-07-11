@@ -35,7 +35,6 @@ In a world of complex database systems, StreamLineDB offers a refreshing approac
 ### 🗺️ Status & Roadmap
 
 StreamLineDB is currently in **active development**. The core concepts are being implemented, and the API is taking shape. Our current focus is on:
-![StreamLineDB](https://www.streamlinedb.org/s/matomo.php?idsite=11&rec=1)
 - [x] **Core Engine:** A stable, high-performance, read-only bit-packed columnar store.
 - [x] **Single File Storage:** Perfecting the `.sldb` format for one file per data stream.
 - [ ] **In-Memory Caching:** Designing the engine to be efficiently cached in application memory.
